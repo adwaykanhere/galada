@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Adway Kanhere  | Theme for Jekyll
+title: Adway Kanhere  | Blog
 description: This is my blog where I discuss about my projects & share ideas, new things that I learn
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "adwaykanhere.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
