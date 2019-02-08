@@ -1,0 +1,30 @@
+---
+layout: post
+title:  Friendly introduction about me
+date:   2019-02-08 11:04:55 +0550
+image:  nathalie-desiree-mottet-624600-unsplash.jpg
+tags:   [Projects]
+---
+Hey there!
+
+My name is Adway Kanhere & welcome to my site.
+
+I have always wanted to write about my life and the things I do, however I'm always procrastinating the work behind it.
+
+This time around, I decided to take writing seriously and plan to keep posting all what I do during my last few semesters of college.
+
+This place will be my portfolio + sketchpad + random posts pad + paper/book discussion platform that will allow me to organize what I do and read and also allow you to look at my work and provide feedback. This is my runaway place to get away from the hustle of undergrad life.
+
+>Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine. -- Nikola Tesla
+
+![]({{site.baseurl}}/img/zoltan-tasi-319208-unsplash.jpg)
+
+Apart from this this will be a blog of all things (Biomedical) U (CS) U (Maths) U (A few Snaps that I wish to share)
+
+I'm also interested in Data Science and Machine/Deep Learning and will be discussing my views and understandings of a few selected papers and books.
+
+See you next time,
+Cheers.
+
+
+Photo by 1. Zoltan Tasi, 2. Nathalie Désirée Mottet on Unsplash
